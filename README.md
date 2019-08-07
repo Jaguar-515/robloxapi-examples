@@ -1,6 +1,8 @@
 # robloxapi-examples
 These are some examples of usage with the robloxapi python module by iranathan.
 
+You may use this code for your projects.
+
 # Contributing
 
 You can contribute by creating a pull request to add more examples to this repo.
