@@ -2,6 +2,7 @@ import robloxapi
 import json
 rbx = robloxapi.client()
 
-userId = input("Enter in a userId: ") # Enter in a userId
-userIdJSON = json.dumps(rbx.User.getProfile(userId)) # Convert this into JSON
-print(userIdJSON)
+keyword = input("Please enter in a keyword to search users: ") # Enter in a keyword
+keywordJSON = json.dumps(rbx.User.searchUsers(keyword)) # Convert this into JSON
+jsonFile = open("results.json", "w")
+jsonFile.write(keywordJSON)
