@@ -1,5 +1,5 @@
-import robloxapi
-import json
+import robloxapi, json
+
 client = robloxapi.client()
 
 groupId = input("Please enter in a valid group id: ") # Enter in a groupId

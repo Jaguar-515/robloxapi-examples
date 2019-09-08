@@ -1,5 +1,4 @@
-import robloxapi
-import json
+import robloxapi, json
 rbx = robloxapi.client()
 
 keyword = input("Please enter in a keyword to search users: ") # Enter in a keyword
