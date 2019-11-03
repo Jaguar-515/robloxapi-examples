@@ -16,3 +16,6 @@ If there are any issues with the code, report them to the robloxapi repo:
 https://github.com/iranathan/robloxapi/issues/new
 
 Roblox API Discord: https://discord.gg/ZVcBRbV
+
+# License
+This is under the MIT license. See [LICENSE](https://github.com/Jaguar-515/robloxapi-examples/blob/master/LICENSE) for more details.
